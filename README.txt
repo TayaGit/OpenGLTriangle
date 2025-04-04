@@ -1,0 +1,2 @@
+This Program Renders two hexagon shapes using OpenGL through textures and vertex shaders. The hexagons change scale and rotate on screen with colors changing based on the size. 
+This program depends on OpenGL to work. 
